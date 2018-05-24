@@ -5,4 +5,6 @@ class test(object):
     print("哈哈")
 
 num3 = 30
-num4 = 50
+
+num4 = 40
+
